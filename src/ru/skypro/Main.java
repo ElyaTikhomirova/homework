@@ -7,7 +7,7 @@ public class Main {
 
         byte a = 5;
         short b = 322;
-        int c = 33;
+        int c = 33009;
         long d = 7_900_455_122L;
         float i = 3.678f;
         double f = 1.3789;
